@@ -6,6 +6,6 @@ The file sync_folders.py contains code to sync two folders.
 ./test_sync/source - source folder <br />
 ./test_sync/destination - destination folder <br />
 sync_log - logs file <br />
-5 - synchronization internval
+5 - synchronization interval
 
 ![Capture](https://github.com/ramyasri1998/veeam_assignment/assets/145350435/4da31c54-352b-4b63-86a4-bf825f3304c0)
